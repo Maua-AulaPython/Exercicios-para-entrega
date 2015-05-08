@@ -7,5 +7,5 @@ By=float(raw_input("Qual o valor do y do ponto B:"))
 x=Ax-Bx
 y=Ay-By
 d= sqrt((x**2)+(y**2))
-print ("a distancia entre os pontos é")
+print ("a distancia entre os pontos e")
 print d
