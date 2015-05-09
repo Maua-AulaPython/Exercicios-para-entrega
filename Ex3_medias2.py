@@ -13,3 +13,6 @@ for g in b:
     res=res+g
 resultado=res/(i-1)
 print resultado
+
+# Nota: 1,0
+# comentario: *
