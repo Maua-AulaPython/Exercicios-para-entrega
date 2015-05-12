@@ -26,4 +26,8 @@ print h*1000
 """
 print ("sua latitude e: {0} ". format(teta*(180/pi)))
 print ("sua altitude : {0} ". format(h*1000))
-print ("sua longitude : {0} ". format(lambida)) 
+print ("sua longitude : {0} ". format(lambida))
+
+# Nota: 0.9
+# O enunciado solicitava criar uma função!
+# Dica: O método `math.degrees` converte radianos para graus

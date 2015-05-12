@@ -23,4 +23,6 @@ print ("a lista de pontos ja foi criada pelo programador")
 print ("portanto o valor da maior distancia entre dois pontos dela sempre sera o mesmo")
 print ("sendo ele:")
 print d
-        
+
+# Nota: 0.8
+# O enunciado solicitava criar uma função!

@@ -9,3 +9,6 @@ y=Ay-By
 d= sqrt((x**2)+(y**2))
 print ("a distancia entre os pontos e")
 print d
+
+# Nota: 1.0
+# O enunciado solicitava criar uma função! Vou considerar pelo exercio 2
