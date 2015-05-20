@@ -13,3 +13,6 @@ print ("o modulo e")
 print moduloz
 print ("o angulo e")
 print ang
+
+# Nota: 0.8
+# O enunciado solicitava criar uma função!

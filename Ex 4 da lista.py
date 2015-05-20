@@ -10,6 +10,7 @@ else:
     area= ((A*B)/2)
     print ("a area do triangulo é %f" %area)
 
-
+# Nota: 0.8
+# O enunciado solicitava criar uma função!
 
 
