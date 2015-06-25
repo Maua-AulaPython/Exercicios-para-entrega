@@ -18,14 +18,17 @@ while valor>=0:
 for g in b:
     res=res+g
 resultado=res/(i-1)
-print ("sua média é")
+print ("sua media e")
 print resultado
 for i in range (len(b)):
     if (max<b[i]):
         max=b[i]
-print ("a maior nota é")
+print ("a maior nota e")
 print (max)
 
 
 
 print ("obrigado")
+
+#Nota: 1.0
+#Comentario: print("De nada")
